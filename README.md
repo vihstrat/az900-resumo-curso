@@ -18,7 +18,7 @@ Este curso fornece um nível de conhecimento básico sobre:
 
 - A **computação em nuvem** é o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
 
-![image.png](attachment:75f1464b-4c67-4a75-9caf-0ebb929517d2:image.png)
+
 
 ### Nuvem Privada
 
@@ -26,7 +26,6 @@ Este curso fornece um nível de conhecimento básico sobre:
 - As organizações são responsáveis por operar os serviços que fornecem.
 - Não fornece aceso aos usuários fora da organização.
 
-![image.png](attachment:c15148ad-0e5e-4d87-a673-b9feb01593ff:image.png)
 
 ### Nuvem Pública
 
@@ -34,13 +33,13 @@ Este curso fornece um nível de conhecimento básico sobre:
 - Fornece recursos e serviços a várias organizações e usuários
 - Acessada via conexão de rede segura (geralmente pela Internet).
 
-![image.png](attachment:a6480747-1971-4a4d-944b-fea336eb5f3c:image.png)
+
 
 ### Nuvem Híbrida
 
 - Combina nuvens públicas e privadas para permitir que os aplicativos sejam executados no local mais adequado.
 
-![image.png](attachment:2ee11493-d730-4d80-911a-2f3158caf929:image.png)
+
 
 ### Comparação de Modelos de Nuvem
 
