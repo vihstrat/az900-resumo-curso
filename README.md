@@ -65,3 +65,44 @@ Como o Azure é organizado fisicamente e logicamente.
 * 🔗 **Pares de Regiões:** Uma região do Azure emparelhada com outra na mesma geografia para recuperação de desastres.
 
 ### Hierarquia de Gerenciamento
+└── 👑 Grupo de Gerenciamento (Políticas para toda a empresa)
+└── 💳 Assinatura (Limite de cobrança e acesso)
+└── 📂 Grupo de Recursos (Contêiner lógico para seus recursos)
+└── 💡 Recurso (VM, Banco de Dados, Rede, etc.)
+
+---
+
+## 🛠️ 5. Principais Serviços por Categoria
+
+Uma visão geral dos recursos mais comuns que você encontrará no Azure.
+
+### 🖥️ Computação
+* **Máquinas Virtuais (VMs):** Servidores Windows ou Linux na nuvem (IaaS).
+* **Serviços de Contêineres:**
+    * **Instâncias de Contêiner:** Execute contêineres rapidamente, sem gerenciamento.
+    * **Serviço de Kubernetes (AKS):** Orquestração de contêineres em larga escala.
+* **Azure Functions:** Execute código sob demanda, sem servidores (Serverless).
+* **Área de Trabalho Virtual do Azure:** Desktop como serviço (DaaS) na nuvem.
+
+### 🌐 Rede
+* **Rede Virtual (VNet):** Sua rede privada e isolada no Azure.
+* **Gateway de VPN:** Conexão segura entre sua rede local e a VNet pela internet.
+* **ExpressRoute:** Conexão privada e dedicada entre sua rede local e o Azure.
+
+### 📦 Armazenamento
+* **Blob Storage:** Armazenamento de objetos para grandes volumes de dados não estruturados.
+* **Disk Storage:** Discos para suas Máquinas Virtuais.
+* **Azure Files:** Compartilhamentos de arquivos de rede na nuvem.
+
+---
+
+## 🛡️ 6. Identidade, Acesso e Segurança
+
+Proteger seus recursos e dados é crucial.
+
+* 🆔 **Microsoft Entra ID:** Serviço de identidade e acesso baseado em nuvem. Fornece autenticação e autorização.
+* 🔑🔑 **Autenticação Multifator (MFA):** Camada extra de segurança que exige duas ou mais provas de identidade.
+* 👤 **Controle de Acesso Baseado em Função (RBAC):** Conceda permissões granulares aos usuários (quem pode fazer o quê e onde).
+* 🕵️‍♂️ **Microsoft Defender para Nuvem:** Ferramenta para monitoramento de segurança e proteção contra ameaças.
+* 📜 **Confiança Zero (Zero Trust):** Modelo de segurança que assume que não há confiança implícita. "Nunca confie, sempre verifique".
+
