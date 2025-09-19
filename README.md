@@ -1,8 +1,5 @@
 # ☁️ Guia Visual AZ-900: Fundamentos do Microsoft Azure
 
-> Este guia é um resumo visual e otimizado dos conceitos essenciais para a certificação AZ-900. Ideal para consultas rápidas no Notion e documentação no GitHub. 🚀
-
----
 
 ## 🏛️ 1. Pilares da Computação em Nuvem
 
