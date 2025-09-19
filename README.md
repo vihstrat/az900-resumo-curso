@@ -66,8 +66,11 @@ Como o Azure é organizado fisicamente e logicamente.
 
 ### Hierarquia de Gerenciamento
 └── 👑 Grupo de Gerenciamento (Políticas para toda a empresa)
+
 └── 💳 Assinatura (Limite de cobrança e acesso)
+
 └── 📂 Grupo de Recursos (Contêiner lógico para seus recursos)
+
 └── 💡 Recurso (VM, Banco de Dados, Rede, etc.)
 
 ---
