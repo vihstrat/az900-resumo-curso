@@ -109,3 +109,62 @@ Proteger seus recursos e dados é crucial.
 * 🕵️‍♂️ **Microsoft Defender para Nuvem:** Ferramenta para monitoramento de segurança e proteção contra ameaças.
 * 📜 **Confiança Zero (Zero Trust):** Modelo de segurança que assume que não há confiança implícita. "Nunca confie, sempre verifique".
 
+---
+
+7. Identidade, Acesso e Segurança
+Microsoft Entra ID (antigo Azure AD): Serviço de gerenciamento de identidades e acesso baseado em nuvem.
+
+Autenticação vs. Autorização:
+
+Autenticação: Confirma quem você é.
+
+Autorização: Define o que você pode fazer.
+
+Autenticação Multifator (MFA): Camada adicional de segurança que exige duas ou mais formas de verificação.
+
+Acesso Condicional: Aplica políticas de acesso com base em condições (usuário, local, dispositivo).
+
+RBAC (Role-Based Access Control): Controle de acesso baseado em função para gerenciar o acesso aos recursos do Azure.
+
+Confiança Zero (Zero Trust): Modelo de segurança que assume que toda solicitação de acesso é uma ameaça em potencial.
+
+Microsoft Defender para Nuvem: Ferramenta para monitorar e proteger cargas de trabalho na nuvem e on-premises contra ameaças.
+
+---
+
+8. Gerenciamento de Custos, Governança e Conformidade
+Custos
+Calculadora de Preços: Estima o custo dos produtos do Azure.
+
+Calculadora de TCO (Custo Total de Propriedade): Estima a economia ao migrar do ambiente on-premises para o Azure.
+
+Gerenciamento de Custos do Azure: Ferramenta para monitorar, controlar e otimizar os gastos no Azure.
+
+Marcas (Tags): Metadados (par nome-valor) para organizar recursos e rastrear custos.
+
+Governança e Conformidade
+Azure Policy: Impõe padrões organizacionais e avalia a conformidade dos recursos.
+
+Bloqueio de Recursos: Protege recursos de exclusão ou modificação acidental (níveis: CanNotDelete e ReadOnly).
+
+Microsoft Purview: Família de soluções para governança de dados, risco e conformidade.
+
+---
+
+9. Ferramentas de Gerenciamento, Implantação e Monitoramento
+Gerenciamento e Implantação
+Azure Arc: Estende o gerenciamento do Azure para ambientes híbridos e multinuvem.
+
+Azure Resource Manager (ARM): Serviço de implantação e gerenciamento do Azure que permite criar, atualizar e excluir recursos.
+
+Modelos ARM: Arquivos JSON que definem a infraestrutura e a configuração para implantação (Infraestrutura como Código - IaC).
+
+Bicep: Linguagem específica de domínio (DSL) que simplifica a criação de modelos ARM.
+
+Monitoramento
+Assistente do Azure (Azure Advisor): Analisa os recursos e oferece recomendações personalizadas para otimizar confiabilidade, segurança, desempenho, custo e excelência operacional.
+
+Integridade do Serviço do Azure (Service Health): Informa sobre o status dos serviços do Azure, problemas que podem afetar você e a integridade de seus recursos específicos.
+
+Azure Monitor: Coleta, analisa e age com base em telemetria de ambientes na nuvem e on-premises para maximizar a disponibilidade e o desempenho.
+
