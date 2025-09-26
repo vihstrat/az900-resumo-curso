@@ -161,7 +161,7 @@ Controlar gastos e garantir a conformidade são essenciais para o sucesso na nuv
 
 Ferramentas que facilitam a administração, a implantação e a observabilidade do seu ambiente.
 
-## Gerenciamento e Implantação
+### Gerenciamento e Implantação
 * 🌐 **Azure Arc:** Estende o plano de controle e gerenciamento do Azure para ambientes híbridos (on-premises) e multinuvem (AWS, GCP).
 
 * 🏗️ **Azure Resource Manager (ARM):** É o serviço de implantação e gerenciamento do Azure. Ele fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos em sua assinatura.
@@ -172,7 +172,7 @@ Ferramentas que facilitam a administração, a implantação e a observabilidade
 
   * **Bicep:** Uma linguagem específica de domínio (DSL) mais simples e declarativa que compila para modelos ARM.
 
-## Monitoramento
+### Monitoramento
 * 👨‍🏫 **Assistente do Azure (Azure Advisor):** Um consultor de nuvem personalizado que analisa sua configuração e uso de recursos, oferecendo recomendações para otimizar a confiabilidade, segurança, desempenho, custo e excelência operacional.
 
 * ❤️‍🩹 **Integridade do Serviço do Azure (Service Health):** Fornece uma visão personalizada do status dos serviços do Azure, informando sobre interrupções, manutenções planejadas e avisos de integridade que podem afetar seus recursos.
